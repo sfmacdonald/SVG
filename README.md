@@ -33,20 +33,12 @@ This terminal app has the following features and functions:
         - The shape shall have a designated color determined by the user by:
             - Entering a color keyword OR a hexadecimal number
 
-See attached screenrecording for demonstration: [insert MPG]
-  
+
 ## Usage
 
-The github repository may be found at [insert URL]
+The github repository may be found at https://github.com/sfmacdonald/SVG-Logo-Creator
 
-
-
-
-
-
-
-
-
+See attached screenrecording for demonstration: [insert MPG]
 
 ## Testing
 
