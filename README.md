@@ -38,7 +38,7 @@ This terminal app has the following features and functions:
 
 The github repository may be found at https://github.com/sfmacdonald/SVG-Logo-Creator
 
-See attached screenrecording for demonstration: [insert MPG]
+See attached screenrecording for demonstration: https://drive.google.com/file/d/1QpfMBgRb8gYg7FIUOEbR1XFM_RB4nTSP/view
 
 ## Testing
 
