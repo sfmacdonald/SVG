@@ -9,6 +9,6 @@
       </style>
       <g class="shape">
         <circle cx="50%" cy="50%" r="80" /> <!-- Insert the shape element here -->
-        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="text">ABC</text>
+        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="text">GKL</text>
       </g>
    </svg>

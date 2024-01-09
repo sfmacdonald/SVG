@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+      <style>
+        .text {
+          fill: RED;
+        }
+        .shape {
+          fill: BLUE;
+        }
+      </style>
+      <g class="shape">
+        <polygon points="100,93.81197846482993 60,163.09401076758502 140,163.09401076758502" /> <!-- Insert the shape element here -->
+        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="text">MKL</text>
+      </g>
+   </svg>
