@@ -34,7 +34,8 @@ function createSVG(text, textColor, shape, shapeColor) {
       </g>
    </svg>`;
    
- return svg; // Return the generated SVG code
+// Return the generated SVG code   
+ return svg; 
 }
 
 inquirer

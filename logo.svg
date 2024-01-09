@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+      <style>
+        .text {
+          fill: BLUE;
+        }
+        .shape {
+          fill: PINK;
+        }
+      </style>
+      <g class="shape">
+        <circle cx="50%" cy="50%" r="80" /> <!-- Insert the shape element here -->
+        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="text">ABC</text>
+      </g>
+   </svg>
